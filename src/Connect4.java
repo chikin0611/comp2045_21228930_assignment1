@@ -1,7 +1,7 @@
 import java.util.Scanner;
-
+// hi
 /**
- * @author: ______your name here (SID)_________
+ * @author: Tang Chi Kin 21228930
  *
  *          For the instruction of the assignment please refer to the assignment
  *          GitHub.
